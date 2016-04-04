@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lib/lbaselib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lundump.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lundump.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lparser.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/loslib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ltablib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lctype.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldebug.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lcode.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lauxlib.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lcode.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldebug.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ltable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldo.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/liolib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/loadlib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lfunc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldump.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lparser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lauxlib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lmem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lobject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lutf8lib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lstring.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lobject.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lopcodes.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ltm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lopcodes.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lgc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lbitlib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ltable.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lfunc.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lapi.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lapi.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lstate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lgc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lvm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/linit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lstring.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lcorolib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/llex.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ldblib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/llex.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lvm.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lstrlib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lzio.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lstate.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lmem.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lctype.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lzio.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/ltm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/lmathlib.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lua.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lua.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/luac.c" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
